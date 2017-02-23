@@ -1,5 +1,5 @@
 {
-  "name": "vue-jsx-practice",
+  "name": "angularjs 1.x webpack boilerplate",
   "version": "1.0.0",
   "description": "Autoloading Angularjs Project and using ES6",
   "scripts": {
