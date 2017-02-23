@@ -1,7 +1,7 @@
 {
   "name": "angularjs 1.x webpack boilerplate",
   "version": "1.0.0",
-  "description": "Autoloading Angularjs Project and using ES6",
+  "description": "Auto reloading Angularjs Project using Webpack and implemting ES6 or ES2017",
   "scripts": {
     "start": "webpack-dev-server --open --inline --hot"
   },
