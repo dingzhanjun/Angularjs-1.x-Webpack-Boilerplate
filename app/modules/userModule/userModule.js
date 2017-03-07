@@ -1,2 +1,2 @@
-import angular from "angular";
-export default angular.module("myApp.Users",[]);
+import angular from 'angular';
+export default angular.module('myApp.Users',[]);
